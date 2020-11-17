@@ -42,6 +42,8 @@ To run this project:
 
 ## Usage
 Note:- please make sure you follow the commands properly
+first enter admin and password 
+by default it is admin
 - Format to be followed
 
   ```
